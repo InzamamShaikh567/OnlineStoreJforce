@@ -31,4 +31,4 @@ npm run dev
 ```
 
 ---
-
+Note: To log in as Admin use admin admin123 
