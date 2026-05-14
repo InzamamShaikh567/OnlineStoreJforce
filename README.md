@@ -1,5 +1,5 @@
 # README
-
+Note: To log in as Admin use admin admin123 
 ## Setup Instructions
 
 ### 1. Configure MySQL
@@ -31,4 +31,4 @@ npm run dev
 ```
 
 ---
-Note: To log in as Admin use admin admin123 
+
